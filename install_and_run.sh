@@ -12,4 +12,4 @@ pip3 install -r requirements.txt
 
 # اجرای اسکریپت
 echo "Running the Ethereum balance checker..."
-python3 Eth-wallet-scan.py
+python3 ETH_WALLET_SCANNER.py
